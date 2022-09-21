@@ -1,7 +1,7 @@
 
 import os
 import sys
-import cx_Oracle
+import cx_oracle
 from flask import Flask ,render_template, request, redirect, url_for,session
 from flask import *
 from flask_mail import Mail, Message
